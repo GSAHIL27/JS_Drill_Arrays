@@ -1,4 +1,4 @@
-const map = require('./map');
+const map = require('../code/map');
 
 const items = [1, 2, 3, 4];
 
