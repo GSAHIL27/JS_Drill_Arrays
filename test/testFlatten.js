@@ -1,4 +1,4 @@
-const flatten = require('./flatten');
+const flatten = require('../code/flatten');
 
 const nestedArray = [1, [2], [[3]], [[[4]]]];
 
