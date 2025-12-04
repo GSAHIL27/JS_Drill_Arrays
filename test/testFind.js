@@ -1,4 +1,4 @@
-const find = require('./find');
+const find = require('../code/find');
 
 const items = [1, 3, 5, 7, 9];
 
